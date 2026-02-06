@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of Science and Technology of China (USTC) and jointly studied at the National University of Singapore (NUS). 
+I am a Ph.D. student at the University of Science and Technology of China (USTC), and a visiting student at the National University of Singapore (NUS). 
 My research focuses on large-scale mixed integer programming and experiential service design.
 
 Education
