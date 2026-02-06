@@ -37,7 +37,7 @@ Published & Accepted
 
 Awards & Honors
 ======
-* 2025 Doctoral Special Program of the China Association for Science and Technology Young Scientific and Technological Talent Cultivation Project
+* 2025 Doctoral Special Program of the China Association for Science and Technology Young Scientific and Technological Talent Cultivation Project.
 * National Scholarship.
   * Doctoral Student (2025).
   * Undergraduate Student (2019, 2020).
