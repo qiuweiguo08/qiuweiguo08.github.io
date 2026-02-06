@@ -26,7 +26,7 @@ Education
 
 Published / Accepted
 ======
-* \textbf{Guo, Q.}, Li, Y., Liu, L., & Sheng, L. (2025). Maximizing Customer Retention in Multi-session Training Service: Model and Algorithm. Forthcoming in Production and Operations Management. https://doi-org.libproxy1.nus.edu.sg/10.1177/10591478251369160.
+* **Guo Qiuwei**., Li Yifu., Liu Lindong, & Sheng Lifei. (2025). Maximizing Customer Retention in Multi-session Training Service: Model and Algorithm. Forthcoming in Production and Operations Management. <a href="https://journals.sagepub.com/doi/10.1177/10591478251369160" target="_blank">[Paper]</a>.
 
 
 Reward
