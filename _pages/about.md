@@ -12,13 +12,17 @@ My research focuses on large-scale mixed integer programming, experiential servi
 
 Education
 ======
-* University of Science and Technology of China, Hefei, 
+* National University of Singapore (NUS), Singapore
+  *Visiting Ph.D. Student in Industrial Systems Engineering & Management (Feb. 2025 – Present)
+  *Advisor: <a href="https://sites.google.com/view/guanyiwang" target="_blank">Guanyi Wang</a>
+  *Supported by China Scholarship Council (CSC).
+* University of Science and Technology of China, Hefei
   * Ph.D. in Management Science and Engineering (Sept. 2024 – Present)
   * M.S. in Management Science and Engineering (Sept. 2022 – June. 2024)
-  * Advisor: Lindong Liu and Yifu Li.
+  * Advisor: <a href="https://bs.ustc.edu.cn/chinese/profile-315.html" target="_blank">Lindong Liu</a> and <a href="https://bs.ustc.edu.cn/chinese/profile-1999.html" target="_blank">Yifu Li</a>.
 * Wuhan University of Technology, Wuhan
   * B.S. in Information Management and Information System (Sept. 2018 – June. 2022)
-
+  * Advisor: <a href="https://sim.whu.edu.cn/info/1565/101142.htm" target="_blank">Jindong Qin</a>
 
 Education
 ======
