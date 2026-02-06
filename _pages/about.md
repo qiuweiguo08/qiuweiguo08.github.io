@@ -14,7 +14,7 @@ Education
 ======
 * National University of Singapore (NUS), Singapore.
   * Visiting Ph.D. Student in Industrial Systems Engineering & Management (Oct. 2025 – Present).
-  * Advisor: <a href="https://sites.google.com/view/guanyiwang" target="_blank">Guanyi Wang</a>
+  * Advisor: <a href="https://sites.google.com/view/guanyiwang" target="_blank">Guanyi Wang</a>.
   * Supported by China Scholarship Council (CSC).
 * University of Science and Technology of China, Hefei.
   * Ph.D. in Management Science and Engineering (Sept. 2024 – Present).
