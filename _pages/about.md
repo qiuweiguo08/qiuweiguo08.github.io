@@ -10,6 +10,14 @@ redirect_from:
 I am a Ph.D. candidate at the University of Science and Technology of China (USTC), majoring in management science and engineering, and a visiting student at the National University of Singapore (NUS). 
 My research focuses on large-scale mixed integer programming, experiential service design, and service scheduling, service routing.
 
+Education
+======
+* University of Science and Technology of China, Hefei, 
+  * Ph.D. in Management Science and Engineering (Sept. 2024 – Present)
+  * M.S. in Management Science and Engineering (Sept. 2022 – June. 2024)
+  * Advisor: Lindong Liu and Yifu Li.
+* Wuhan University of Technology, Wuhan
+  * B.S. in Information Management and Information System (Sept. 2018 – June. 2022)
 
 
 Education
