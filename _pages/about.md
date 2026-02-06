@@ -26,10 +26,11 @@ Education
 
 Published / Accepted
 ======
-* **Guo Qiuwei**., Li Yifu., Liu Lindong, & Sheng Lifei. (2025). Maximizing Customer Retention in Multi-session Training Service: Model and Algorithm. Forthcoming in Production and Operations Management. <a href="https://journals.sagepub.com/doi/10.1177/10591478251369160" target="_blank">[Paper]</a>.
+* **Guo Qiuwei**., Li Yifu., Liu Lindong, & Sheng Lifei. (2025). Maximizing Customer Retention in Multi-session Training Service: Model and Algorithm. Forthcoming in <i>Production and Operations Management</i>. <a href="https://journals.sagepub.com/doi/10.1177/10591478251369160" target="_blank">[Paper]</a>.
+ * Outstanding Paper Award at the Doctoral Forum of Antai College of Economics and Management, Shanghai Jiao Tong University
 
 
-Reward
+Awards & Honors
 ======
 * 2025 Doctoral Special Program of the China Association for Science and Technology Young Scientific and Technological Talent Cultivation Project
 * National Scholarship (doctoral students)
